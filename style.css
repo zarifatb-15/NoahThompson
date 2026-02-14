@@ -102,3 +102,10 @@
     margin: 3px 0 0;
     color: gray;
 }
+/* Social Icons */
+.social {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 90px;
+}
